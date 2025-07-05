@@ -1,5 +1,5 @@
 $AnyDeskURL = "https://download.anydesk.com/AnyDesk.exe"
-$InstallPath = "$env:TEMP\AnyDesk.exe"
+$InstallPath = "$env:C:\TEMP\AnyDesk.exe"
 $Arguments = "--install "C:\Install\AnyDesk\Here" --start-with-win --silent --create-shortcuts --create-desktop-icon"
 
 # Baixa o instalador
